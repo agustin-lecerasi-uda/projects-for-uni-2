@@ -4,6 +4,7 @@
 
 --------------------------------------------------------------------------------------------------------------------------
 Funciones:
+	
 	-Comunicar cliente con servidor 
 	-Contar las vocales un texto
 	-Contar las consonantes de un texto.
@@ -11,6 +12,7 @@ Funciones:
 	-Y contar la longitud.
 ---------------------------------------------------------------------------------------------------------------------------	
 Sobre el código:
+	
 	-Implementa socket para la comunicación entre cliente y servidor. 
 	-BufferedReader y PrintWriter para intercambiar información con el objeto socket.
 	-Y el contacto inicial entra en un try{} catch para manejar exepciones.
